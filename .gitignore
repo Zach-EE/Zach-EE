@@ -337,3 +337,8 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/django,nextjs,node
+
+HELPME.md
+
+Pipfile
+Pipfile.*
