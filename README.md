@@ -53,10 +53,7 @@
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **Work!**
 - 💬 **Ask me about Startups, Programming, Fintech etc...**
-- ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
-- ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
-
-
+- ⚡*My Mission in life is to constantly learn and evolve. I love keeping up with the bleeding edge of innovation, and all the advancements our species has to offer to the universe*
 ---
 
 ## 🛠 &nbsp;Tools & Technologies  I Have Used   
