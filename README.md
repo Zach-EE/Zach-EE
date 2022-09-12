@@ -49,11 +49,10 @@
 <!-- I'm an **Undergrad Student 🎓 at [LNCT](https://lnct.ac.in)** Pursuing CSE (AI-ML). -->
 
 - 🔭 I’m currently working as an **Freelance Fullstack Developer**
-- 🌱 I’m currently **Machine Learning and Data Analytics**
+- 🌱 I’m currently learning **Machine Learning and Data Analytics**
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
-- 🤔 I’m looking for **MENTORS!**
-- 💬 **Ask me about Startups, Programming, etc...**
-- 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp; <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>&nbsp; <a href="https://twitter.com/AnshSSonkhia"><img src="https://img.shields.io/badge/Twitter-darkblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+- 🤔 I’m looking for **Work!**
+- 💬 **Ask me about Startups, Programming, Fintech etc...**
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
 
@@ -95,10 +94,10 @@
 
 <!-- TOP LANGUAGES -->
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AnshSinghSonkhia&theme=chartreuse-dark)](https://github.com/AnshSinghSonkhia)
+[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Zach-EE&theme=chartreuse-dark)](https://github.com/Zach-EE)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnshSinghSonkhia&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSinghSonkhia&layout=&theme=vision-friendly-dark)](https://github.com/AnshSinghSonkhia/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zach-EE&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zach-EE&layout=&theme=vision-friendly-dark)](https://github.com/Zach-EE/github-readme-stats)
 
 <!-- <a href="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshSinghSonkhia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ansh Singh Sonkhia's GitHub Stats" />
@@ -117,8 +116,8 @@
 
 
 <p align="center">
-  <a href="https://hits.sh/github.com/AnshSinghSonkhia">
-    <img src="https://hits.sh/github.com/AnshSinghSonkhia.svg?style=plastic&label=Ansh's%20Viewers&extraCount=99999999&color=560027&labelColor=bb002f&logo=github">
+  <a href="https://hits.sh/github.com/Zach-EE">
+    <img src="https://hits.sh/github.com/Zach-EE.svg?style=plastic&label=Zach's%20Viewers&extraCount=99999999&color=560027&labelColor=bb002f&logo=github">
   </a>
 </p>
 
