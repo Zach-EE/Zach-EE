@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/Pics/profile-pic.png" title="Ansh Singh Sonkhia" alt="Ansh Singh Sonkhia" width="100" height="100"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/65565782?s=400&u=6a60a8860ac4acd4baf1b9316dbe6715e10b7261&v=4" title="Zach Holloway" alt="Zach Holloway" width="100" height="100"/>&nbsp;
   
   WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 </h1>
-<h3 align="center">A Passionate Student Software Developer From INDIA &nbsp;<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/india-flag-icon.png" height="15"></h3>
+<h3 align="center">Freelance software developer, living in beautiful Charleston, South Carolina  &nbsp;<img src="https://freesvg.org/img/State-Flag-States-10-2015072945.png" height="15"></h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
@@ -60,17 +60,14 @@
 
 ## 🚀 About Me :   
 
-<!--
-**AnshSinghSonkhia/AnshSinghSonkhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 <!-- I'm an **Undergrad Student 🎓 at [LNCT](https://lnct.ac.in)** Pursuing CSE (AI-ML). -->
 
-- 🔭 I’m currently working as an **Android Developer Intern** at **Google Developers.**
-- 🌱 I’m currently **Learning Android Development & Kotlin.**
+- 🔭 I’m currently working as an **Freelance Fullstack Developer**
+- 🌱 I’m currently **Machine Learning and Data Analytics**
 - 👯 **I’m looking to collaborate on Projects and Startup Ideas.**
 - 🤔 I’m looking for **MENTORS!**
 - 💬 **Ask me about Startups, Programming, etc...**
-- 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/AnshSinghSonkhia"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp; <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>&nbsp; <a href="https://twitter.com/AnshSSonkhia"><img src="https://img.shields.io/badge/Twitter-darkblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+- 📫 **Reach Out To Me At:** <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-darkblue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp; <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm"><img height="22" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/></a>&nbsp; <a href="https://twitter.com/AnshSSonkhia"><img src="https://img.shields.io/badge/Twitter-darkblue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 - ⚡*My Mission is to Solve The Problems of the Mankind. Since My School Days, I was the one who used to find the Solutions to all the Problems My Classmates, Friends & all the People Around Me Had.*
 - ✨ In IXth Standard, My Class Teacher Taught Me That Anyone Can Do Anything If He Wants To Do it. I experimented with it & Now, That's What I Believe - "I CAN DO ANYTHING & Nothing is Impossible For Me!"
 
@@ -125,16 +122,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=AnshSinghSonkhia&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a00037"/>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshSinghSonkhia&repo=Coding-Keyboard-Shortcuts&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a00037"/>
 
-
-## &#x270d; My Articles
-✔ Apart from coding, I also write articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [From Getting an Internship Being a Just 18-year-old boy, to...](https://www.linkedin.com/posts/anshsinghsonkhia_internship-experience-thankyou-activity-6913529874527752192-shqZ?utm_source=li_share&utm_content=public_post&utm_medium=g_dt_web)
-- [Are You Ready To Launch Your Own Business? 4 Must Ask Questions!](https://tealfeed.com/ready-launch-own-business-4-crucial-on6hw)
-- [DON'T SKIP - Day1 of Daily Web3❗](https://www.linkedin.com/posts/anshsinghsonkhia_blockchain-programming-cryptocurrency-activity-6945010899346673664-rQG_?utm_source=linkedin_share&utm_medium=member_desktop_web)
-- [My First Internship Experience](https://medium.com/@AnshSinghSonkhia/my-internship-experience-with-mindler-be5df5b23d78)
-<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
