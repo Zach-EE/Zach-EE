@@ -7,27 +7,13 @@
 <h3 align="center">Freelance software developer, living in beautiful Charleston, South Carolina  &nbsp;<img src="https://freesvg.org/img/State-Flag-States-10-2015072945.png" height="15"></h3>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=anshssonkhia@gmail.com&tf=cm">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@zach-ee.dev&tf=cm">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
 </a>
-  <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
+  <a href="https://www.linkedin.com/in/zachholloway-n">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
-  <a href="https://twitter.com/AnshSSonkhia">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-  <a href="https://stackoverflow.com/users/19728087/ansh-singh-sonkhia">
-  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png"/>&nbsp;
-</a>
-  <a href="https://g.dev/AnshSinghSonkhia">
-  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>&nbsp;
-</a>
-  <a href="https://medium.com/@AnshSinghSonkhia">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/512/2504/2504925.png"/>
-</a>&nbsp;
-  <a href="https://www.quora.com/profile/Ansh-Singh-Sonkhia-1">
-  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/quora.png"/>&nbsp;
-</a>
+
 
 
   
