@@ -103,20 +103,12 @@
 
 <div align="center">
 
-<h3> Show Some <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/love.png" title="Love" alt="Love" width="20" height="20"/> by Starring Some of My Repos! </h3>
-
-</div>
-
-
 <p align="center">
   <a href="https://hits.sh/github.com/Zach-EE">
     <img src="https://hits.sh/github.com/Zach-EE.svg?style=plastic&label=Zach's%20Viewers&extraCount=99999999&color=560027&labelColor=bb002f&logo=github">
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/eye-blink.png" width="80">
-</div>
 
 
 
