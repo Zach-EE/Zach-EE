@@ -83,9 +83,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelliJ"  alt="intelliJ" width="60" height="60"/>&nbsp;
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/tailwind%20(1).png" title="TailwindCSS" alt="TailwindCSS" width="70" height="40"/>&nbsp;
+
 
 ## &#x1f4c8; GitHub Stats     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
